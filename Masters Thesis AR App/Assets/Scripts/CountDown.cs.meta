@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: cbe62dd787def4f41b44a8b0920c6fd4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - countDownText: {instanceID: 0}
+  - pigPen: {instanceID: 0}
+  - nextButton: {instanceID: 0}
+  - backButton: {instanceID: 0}
+  - nextButtonPlane: {instanceID: 0}
+  - backButtonPlane: {instanceID: 0}
+  - nextButtonText: {instanceID: 0}
+  - backButtonText: {instanceID: 0}
+  - greenButton: {instanceID: 0}
+  - greyButton: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
